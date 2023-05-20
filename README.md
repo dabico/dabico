@@ -1,7 +1,6 @@
-### Hi there 👋
+![My GitHub stats](https://github-readme-stats-dabico.vercel.app/api?username=dabico&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 
 <!--
-**dabico/dabico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
