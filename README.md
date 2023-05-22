@@ -12,5 +12,5 @@
 
 <h4 align="center">Stats</h4>
 <p align="center">
-  <img src="https://github-readme-stats-dabico.vercel.app/api?username=dabico&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img src="https://github-readme-stats-dabico.vercel.app/api?username=dabico&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" />
 </p>
