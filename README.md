@@ -7,7 +7,7 @@
 
 <h4 align="center">Stats</h4>
 <p align="center">
-  <img src="https://github-readme-stats-dabico.vercel.app/api?username=dabico&show_icons=true&hide_border=true&hide_title=true&theme=transparent" />
+  <img src="https://github-readme-stats-git-master-dabico.vercel.app/api?username=dabico&show_icons=true&hide_border=true&hide_title=true&theme=transparent&rank_icon=github" />
 </p>
 
 <h4 align="center">Links</h4>
