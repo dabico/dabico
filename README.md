@@ -12,7 +12,7 @@
 
 <h4 align="center">Links</h4>
 <div align="center">
-  <a href="https://github.com/dabico/cv/releases/download/v1.0/ozren_dabic_cv.pdf" target="_blank">📝 CV</a>
+  <a href="https://github.com/dabico/cv/releases/download/v1.0.0/ozren_dabic_cv.pdf" target="_blank">📝 CV</a>
   &middot;
   <a href="https://ozrendabic.sh" target="_blank">🌐 Website</a>
 </div>
