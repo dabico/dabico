@@ -2,7 +2,7 @@
 
 <h4 align="center">Skills</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,spring,hibernate,express,vue,bootstrap,postgres,mysql,mongodb,nodejs,maven,git,docker,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,spring,hibernate,express,vue,bootstrap,postgres,mysql,mongodb,nodejs,maven,git,githubactions,docker,linux&perline=6" />
 </p>
 
 <h4 align="center">Stats</h4>
